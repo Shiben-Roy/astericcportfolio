@@ -1,0 +1,81 @@
+
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #0e0e0e;
+}
+
+header {
+    background-color: #171717;
+    color: #fff;
+    padding: 1rem 0;
+    text-align: left;
+}
+
+
+nav a{
+    text-decoration: none;
+    color: white;
+}
+
+.nav {
+    text-align: center;
+
+}
+.skill-box {
+    width: 300px;
+    padding: 20px;
+    margin: 20px;
+    background-color: #171717;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+.skill-box {
+    width: 300px;
+    border: 2.5px solid #252525;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 5px;
+}
+
+.skill-name {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    color: #ffffff;
+    font-family: 'Comfortaa';font-size: 22px;
+}
+
+.progress-bar-container {
+    background-color: #e0e0e0;
+    border-radius: 10px;
+    overflow: hidden;
+    height: 25px;
+    box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.2);
+}
+
+.progress-bar {
+    height: 100%;
+    background: linear-gradient(90deg, #bbdbfc, #e53175);
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    line-height: 25px; /* Center text vertically */
+    transition: width 0.4s ease;
+    border-radius: 10px 0 0 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
